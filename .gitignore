@@ -7,3 +7,6 @@
 .ExternalData_SHA512_*
 .DS_Store
 CMakeUserPresets.json
+out/
+CMakeSettings.json
+.vs/

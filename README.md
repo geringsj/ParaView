@@ -1,5 +1,9 @@
 ![ParaView](Utilities/Doxygen/images/paraview-logo-small.png)
 
+Reference CMake Parameters
+----------------
+-DPARAVIEW_USE_PYTHON=ON -DOpenVR_INCLUDE_DIR="PATH_TO\openvr\headers" -DOpenVR_LIBRARY="PATH_TO\openvr\lib\win64\openvr_api.lib" -DPARAVIEW_PLUGIN_ENABLE_XRInterface=YES
+
 Introduction
 ============
 [ParaView][] is an open-source, multi-platform data analysis and

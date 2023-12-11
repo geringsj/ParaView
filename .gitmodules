@@ -1,6 +1,6 @@
 [submodule "VTK"]
 	path = VTK
-	url = https://gitlab.kitware.com/vtk/vtk.git
+	url = git@github.com:Kojox/VTK.git
 	branch = paraview/release
 [submodule "Utilities/VisItBridge"]
 	path = Utilities/VisItBridge
@@ -13,3 +13,9 @@
 	path = ThirdParty/QtTesting/vtkqttesting
 	url = https://gitlab.kitware.com/paraview/qttesting.git
 	branch = for/paraview
+[submodule "ThirdParty/mint"]
+	path = ThirdParty/mint
+	url = https://github.com/UniStuttgart-VISUS/MWK-mint
+[submodule "ThirdParty/openvr"]
+	path = ThirdParty/openvr
+	url = git@github.com:ValveSoftware/openvr.git
